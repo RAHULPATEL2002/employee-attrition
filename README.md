@@ -9,6 +9,7 @@ This project analyzes employee attrition trends using a dataset from Green Desti
 - Implements a logistic regression model to predict attrition
 - Evaluates model performance with accuracy, confusion matrix, and classification report
 
+
 ---
 
 ## Dataset
@@ -102,12 +103,14 @@ Classification Report:
 
 ---
 
+
 ## Conclusion
 This project provides insights into employee attrition using exploratory data analysis and machine learning. Future improvements can include:
 - Adding more features such as job role, department, and work-life balance
 - Using advanced models like decision trees or neural networks
 
 ---
+
 
 ## Author
 **Rahul Patel**
