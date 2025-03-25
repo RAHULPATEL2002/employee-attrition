@@ -1,5 +1,6 @@
 # Employee Attrition Analysis
 
+
 ## Overview
 This project analyzes employee attrition trends using a dataset from Green Destinations. The goal is to determine attrition rates and identify key influencing factors such as age, years at the company, and monthly income. The analysis uses Python with pandas, NumPy, matplotlib, seaborn, and scikit-learn.
 
